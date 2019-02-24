@@ -3,11 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Web", "HelloWorld.Web\HelloWorld.Web.csproj", "{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D7B6C426-74D8-4FE6-B2BC-D710C6718176}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|x64.Build.0 = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Debug|x86.Build.0 = Debug|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|x64.ActiveCfg = Release|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|x64.Build.0 = Release|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|x86.ActiveCfg = Release|Any CPU
+		{B7CC7075-0E71-4F53-B0F6-E01845F2EE1E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

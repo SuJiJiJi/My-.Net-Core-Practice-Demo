@@ -11554,11 +11554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\DotNetCoreProjects\\HelloWorld.Web\\HelloWorld.Web.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\DotNetDemo\\DemoSolution\\HelloWorld.Web\\HelloWorld.Web.csproj",
       "projectName": "HelloWorld.Web",
-      "projectPath": "D:\\WorkSpace\\DotNetCoreProjects\\HelloWorld.Web\\HelloWorld.Web.csproj",
+      "projectPath": "D:\\WorkSpace\\DotNetDemo\\DemoSolution\\HelloWorld.Web\\HelloWorld.Web.csproj",
       "packagesPath": "C:\\Users\\sujia\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\DotNetCoreProjects\\HelloWorld.Web\\obj\\",
+      "outputPath": "D:\\WorkSpace\\DotNetDemo\\DemoSolution\\HelloWorld.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
